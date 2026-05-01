@@ -39,6 +39,12 @@ CODSOFT/
 Each project folder contains the notebook, explanation, and project-specific details.
 
 ## Projects
-- [Titanic Survival Prediction](./Titanic-Survival-Prediction)
-- [Sales Prediction Using Python](./Sales-Prediction-Using-Python)
-- [Credit Card Fraud Detection](./Credit-Card-Fraud-Detection)
+
+- [Titanic Survival Prediction](./Titanic-Survival-Prediction)  
+  A beginner classification project where I explored passenger data and built a model to predict survival.
+
+- [Sales Prediction Using Python](./Sales-Prediction-Using-Python)  
+  A regression-based project focused on understanding how advertising data can help predict sales.
+
+- [Credit Card Fraud Detection](./Credit-Card-Fraud-Detection)  
+  A fraud detection project where I worked with imbalanced data and evaluated classification models carefully.
