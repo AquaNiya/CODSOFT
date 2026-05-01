@@ -1,4 +1,20 @@
-Sales prediction involves forecasting i.e, the amount of a product that customers will purchase, taking into account various factors such as advertising expenditure, target audience segmentation, and advertising platform selection.
-In businesses that offer products or services, the role of a Data Scientist is crucial for predicting future sales by utilizing machine learning techniques in Python to analyze and interpret data, allowing them to make informed decisions regarding advertising costs. 
-By leveraging these predictions, businesses can optimize their advertising strategies and maximize sales potential.
-The required dataset used from Kaggle was : https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/input
+# Sales Prediction Using Python
+
+In this project, I explored how advertising data can be used to predict product sales.
+
+## What I worked on
+- Loaded the dataset in Colab
+- Performed basic exploratory data analysis
+- Studied relationships between advertising channels and sales
+- Built a regression model for prediction
+- Evaluated model performance
+
+## What I learned
+This project helped me understand regression, feature relationships, and how analysis supports business decisions.
+
+## Dataset
+Source: Kaggle Advertising / Sales Prediction Dataset
+https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/input
+
+## Status
+Notebook will be uploaded here.
