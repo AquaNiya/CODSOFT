@@ -37,3 +37,8 @@ CODSOFT/
 
 ## Note
 Each project folder contains the notebook, explanation, and project-specific details.
+
+## Projects
+- [Titanic Survival Prediction](./Titanic-Survival-Prediction)
+- [Sales Prediction Using Python](./Sales-Prediction-Using-Python)
+- [Credit Card Fraud Detection](./Credit-Card-Fraud-Detection)
