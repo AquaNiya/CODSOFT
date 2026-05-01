@@ -17,4 +17,6 @@ Source: Kaggle Advertising / Sales Prediction Dataset
 https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/input
 
 ## Status
-Notebook will be uploaded here.
+Notebook completed in Google Colab and currently available through the shared Colab link.
+
+[Open notebook in Colab](https://colab.research.google.com/drive/1tQQvBLUQxaky5SDJUMUfv_O8JnU900NA)
