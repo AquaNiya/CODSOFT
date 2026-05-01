@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ## Status
 Notebook uploaded to this repository. The project can be viewed here:
-
+## Notebook
 [titanic_survival_prediction.ipynb](./titanic_survival_prediction.ipynb)
 
 Google Colab version:
