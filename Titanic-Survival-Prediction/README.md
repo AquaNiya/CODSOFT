@@ -17,6 +17,9 @@ Source: Kaggle Titanic Dataset
 https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ## Status
-Notebook completed in Google Colab and currently available through the shared Colab link.
+Notebook uploaded to this repository. The project can be viewed here:
 
+[titanic_survival_prediction.ipynb](./titanic_survival_prediction.ipynb)
+
+Google Colab version:
 [Open notebook in Colab](https://colab.research.google.com/drive/1yltxlyswBpxrIsdIuEH3RLUSUh-tPj1N)
