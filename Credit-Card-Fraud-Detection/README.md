@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Status
 Notebook uploaded to this repository. The project can be viewed here:
-
+## Notebook
 [credit_card_fraud_detection.ipynb](./credit_card_fraud_detection.ipynb)
 
 Google Colab version:
