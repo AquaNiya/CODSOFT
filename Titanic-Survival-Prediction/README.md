@@ -17,4 +17,6 @@ Source: Kaggle Titanic Dataset
 https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ## Status
-Notebook will be uploaded here - Colab Notebook
+Notebook completed in Google Colab and currently available through the shared Colab link.
+
+[Open notebook in Colab](https://colab.research.google.com/drive/1yltxlyswBpxrIsdIuEH3RLUSUh-tPj1N)
