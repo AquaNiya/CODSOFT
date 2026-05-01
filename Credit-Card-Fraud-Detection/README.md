@@ -17,6 +17,9 @@ Source: Kaggle Credit Card Fraud Detection Dataset
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Status
-Notebook completed in Google Colab and currently available through the shared Colab link.
+Notebook uploaded to this repository. The project can be viewed here:
 
+[credit_card_fraud_detection.ipynb](./credit_card_fraud_detection.ipynb)
+
+Google Colab version:
 [Open notebook in Colab](https://colab.research.google.com/drive/12mbR5UqSAnf_uNs0oxrdNzfHOKSSXH3g)
