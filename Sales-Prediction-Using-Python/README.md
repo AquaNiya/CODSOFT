@@ -18,7 +18,7 @@ https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/inp
 
 ## Status
 Notebook uploaded to this repository. The project can be viewed here:
-
+## Notebook
 [sales_prediction_analysis.ipynb](./sales_prediction_analysis.ipynb)
 
 Google Colab version:
