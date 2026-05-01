@@ -1,3 +1,20 @@
-Using the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not.
-The dataset typically used for this project contains information about individual passengers, such as their age, gender, ticket class, fare, cabin, and whether or not they survived.
-The datasset used was from Kaggle : https://www.kaggle.com/datasets/yasserh/titanic-dataset
+# Titanic Survival Prediction
+
+This project is my attempt to learn the basics of classification using the Titanic dataset.
+
+## What I worked on
+- Loaded and understood the dataset
+- Checked missing values
+- Cleaned the data
+- Converted categorical columns into numbers
+- Trained a machine learning model to predict survival
+
+## What I learned
+This task helped me understand how raw data is prepared before model training. I also learned how features like age, gender, and passenger class can influence prediction.
+
+## Dataset
+Source: Kaggle Titanic Dataset
+https://www.kaggle.com/datasets/yasserh/titanic-dataset
+
+## Status
+Notebook will be uploaded here - Colab Notebook
