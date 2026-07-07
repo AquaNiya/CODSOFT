@@ -1,9 +1,9 @@
 # CODSOFT – Data Science Internship Projects
 
-This repository contains the machine learning and data science tasks I completed as part of my CODSOFT Data Science Internship.
+This repository contains the machine learning and data science tasks I completed as part of my CODSOFT Data Science Tasks.
 
 ## About Me
-I am an aspiring data science and machine learning learner focused on building practical projects in Python. Through these tasks, I explored data cleaning, exploratory data analysis, feature engineering, model building, and evaluation.
+I love data science and machine learning field and focused on building practical projects in Python. Through these tasks, I explored data cleaning, exploratory data analysis, feature engineering, model building, and evaluation.
 
 ## Projects Included
 1. Titanic Survival Prediction
